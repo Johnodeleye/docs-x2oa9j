@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-ih9nye.oppatoto54fnj.cyou/sitemap.xml
